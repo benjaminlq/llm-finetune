@@ -10,11 +10,12 @@ numpy
 protobuf
 scikit-learn
 fairscale
+openai
 # wheel
 # packaging==23.1
 # oslo-core
 # langchain==0.0.262
-# tiktoken==0.4.0
+tiktoken==0.5.2
 # streamlit==1.22.0
 # faiss-cpu==1.7.4
 # streamlit-chat==0.0.2.2
